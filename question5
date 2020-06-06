@@ -1,0 +1,1 @@
+select * from academy where id = 3 ;
